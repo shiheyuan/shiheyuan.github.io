@@ -21,7 +21,7 @@ repository               : "shiheyuan/shiheyuan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "files/ali_fig.png"
+  avatar           : "ali_fig.png"
   name             : "Heyuan Shi"
   pronouns         : # example: "she/her"  
   bio              : "SQA engineer"
