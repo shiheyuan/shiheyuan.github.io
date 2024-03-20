@@ -31,8 +31,17 @@ Heyuan Shi received the B.S. degree in School of Information Science and Enginee
 18. **Heyuan Shi**, Xibin Zhao, Hai Wan, Huihui Wang, Jian Dong, Kun Tang, Anfeng Liu:
     Multi-model induced network for participatory-sensing-based classification tasks in intelligent and connected transportation systems. Comput. Networks 141: 157-165 (2018)
 
-## Reviewer
+## Project
+- 2023.12-2025.12, Open Fund of Anhui Province Key Laboratory of Cyberspace Security Situation Awareness and Evaluation (No.CSSAE-2023-010)
+- 2023.01-2025.12, National Key Research and Development Project (No.2022YFB3104003)
+- 2023.01-2025.12, NSFC Program (No.62202500)
+- 2023.01-2025.12, Hunan Provincial Natural Science Foundation (No.2023JJ40772)
+- 2023.04-2024.12, Hunan Provincial Educational Science "14th Five-Year Plan" 2023 Annual Base Project (No.XJK23AJD022)
+- 2023.05-2024.05, Alibaba Innovative Research (AIR) Project, (No.CRS54WHZ11230005 24221597)
+- 2022.09-2024.09, Ministry of Education Industry-University Cooperation Collaborative Education Project (No.220500643274437)
+- 2023.01-2023.12, Xiaohe Sci-Tech Talents Special Funding under Hunan Provincial Sci-Tech Talents Sponsorship Program (No.2023TJ-X40)
 
+## Reviewer
 - IEEE Transactions on Sustainable Computing
 - The Journal of Supercomputing
 - Journal of Cryptologic Research (密码学报)
