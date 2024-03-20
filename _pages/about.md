@@ -9,10 +9,6 @@ redirect_from:
 
 Heyuan Shi received the B.S. degree in School of Information Science and Engineering, Central South University, Changsha, China, in 2015, and the Ph.D. degree in School of Software, Tsinghua University, Beijing, China, in 2020. He is currently an Associate Professor with the School of Electronic Information, Central South University, Changsha, China. His current research interests include the safety and reliability of infrastructure software and AI software.
 
-- Chinese version of personal website：[link](https://faculty.csu.edu.cn/shiheyuan/zh_CN/index.htm)
-- DBLP: [link](https://dblp.uni-trier.de/pid/192/6867.html)
-- Google Scholar: [link](https://scholar.google.com/citations?hl=zh-CN&user=30hFs1cAAAAJ&view_op=list_works&sortby=pubdate)
-
 ## Publication
 
 1. Yu Zhan, Ying Fu, Liang Huang, Jianmin Guo, **Heyuan Shi\***, Houbing Song, Chao Hu: Cube-Evo: a query-efficient black box attack on video classification system. IEEE Transactions on Reliability, doi: 10.1109/TR.2023.3261986.
