@@ -15,7 +15,7 @@ Heyuan Shi received the B.S. degree in School of Information Science and Enginee
 
 ## Selected Conference Publications
 
-1. Rongkai Liu, **Heyuan Shi***, Yongchao Zhang, Runzhe Wang, Yuheng Shen, Yuao Chen, Jing Luo, Xiaohai Shi, Chao Hu, Yu Jiang: PatchBert: Continuous Stable Patch Identification for Linux Kernel via Pre-trained Model Fine-tuning. **SANER** 2024.
+1. Rongkai Liu, **Heyuan Shi\***, Yongchao Zhang, Runzhe Wang, Yuheng Shen, Yuao Chen, Jing Luo, Xiaohai Shi, Chao Hu, Yu Jiang: PatchBert: Continuous Stable Patch Identification for Linux Kernel via Pre-trained Model Fine-tuning. **SANER** 2024.
 2. Yuheng Shen, Shijun Chen, Jianzhong Liu, Yiru Xu, Qiang Zhang, Runzhe Wang, **Heyuan Shi\***, Yu Jiang: Brief Industry Paper: Directed Kernel Fuzz Testing on Real-time Linux. **RTSS** 2023: 495-499
 3. Qinglong Wang, Runzhe Wang, Yuxi Hu, Xiaohai Shi, Zheng Liu, Tao Ma, Houbing Song, **Heyuan Shi\***: KeenTune: Automated Tuning Tool for Cloud Application Performance Testing and Optimization. **ISSTA** 2023: 1487-1490
 4. Runzhe Wang, Qinglong Wang, Yuxi Hu, **Heyuan Shi\***, Yuheng Shen, Yu Zhan, Ying Fu, Zheng Liu, Xiaohai Shi, Yu Jiang: Industry practice of configuration auto-tuning for cloud applications and services. **ESEC/SIGSOFT FSE** 2022: 1555-1565
@@ -68,19 +68,19 @@ Heyuan Shi received the B.S. degree in School of Information Science and Enginee
 
 ### Masters
 
-1. Liang Huang (2019-2022): Co-supervised with Prof. Ronghua Shi, Now Tencent.
-2. Yu Zhan (2020-2023): Co-supervised with Prof. Xin Yao, Now China Telecom.
-3. Kai Liang (2021-2024): Co-supervised with Prof. Ronghua Shi
-4. Rongkai Liu (2021-2024): Co-supervised with Prof. Chao Hu
-5. Jing Luo (2021-2024): Co-supervised with Prof. Chao Hu
-6. Ruishi Yu (2021-2024): Co-supervised with Prof. Chao Hu
-7. Shijun Chen (2022-): Co-supervised with Prof. Ronghua Shi
-8. Ruikang Peng (2022-): Co-supervised with Prof. Ronghua Shi
-9. Shangyuan Xiafang (2022-): Co-supervised with Prof. Ronghua Shi
-10. Shuning Liu (2022-)
-11. Binqi Zeng (2022-)
-12. Wanli Chen (2023-): 
-13. Sisheng Li (2023-): Co-supervised with Prof. Chao Hu
-14. Zijian Zouxia (2023-): Co-supervised with Prof. Ronghua Shi
-15. Yuhan Chen (2023-): Co-supervised with Prof. Ronghua Shi
-16. Wenlong Zhang (2023-): Co-supervised with Prof. Ronghua Shi
+1. Wanli Chen (2023-):
+2. Sisheng Li (2023-): Co-supervised with Prof. Chao Hu
+3. Zijian Zouxia (2023-): Co-supervised with Prof. Ronghua Shi
+4. Yuhan Chen (2023-): Co-supervised with Prof. Ronghua Shi
+5. Wenlong Zhang (2023-): Co-supervised with Prof. Ronghua Shi
+6. Shuning Liu (2022-)
+7. Binqi Zeng (2022-)
+8. Shijun Chen (2022-): Co-supervised with Prof. Ronghua Shi
+9. Ruikang Peng (2022-): Co-supervised with Prof. Ronghua Shi
+10. Shangyuan Xiafang (2022-): Co-supervised with Prof. Ronghua Shi
+11. Kai Liang (2021-2024): Co-supervised with Prof. Ronghua Shi
+12. Rongkai Liu (2021-2024): Co-supervised with Prof. Chao Hu
+13. Jing Luo (2021-2024): Co-supervised with Prof. Chao Hu
+14. Ruishi Yu (2021-2024): Co-supervised with Prof. Chao Hu
+15. Liang Huang (2019-2022): Co-supervised with Prof. Ronghua Shi, Now Tencent.
+16. Yu Zhan (2020-2023): Co-supervised with Prof. Xin Yao, Now China Telecom.
