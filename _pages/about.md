@@ -15,7 +15,7 @@ Heyuan Shi received the B.S. degree in School of Information Science and Enginee
 
 ## Selected Conference Publications
 
-1. Rongkai Liu, **Heyuan Shi**, Yongchao Zhang, Runzhe Wang, Yuheng Shen, Yuao Chen, Jing Luo, Xiaohai Shi, Chao Hu, Yu Jiang: PatchBert: Continuous Stable Patch Identification for Linux Kernel via Pre-trained Model Fine-tuning. **SANER** 2024.
+1. Rongkai Liu, **Heyuan Shi***, Yongchao Zhang, Runzhe Wang, Yuheng Shen, Yuao Chen, Jing Luo, Xiaohai Shi, Chao Hu, Yu Jiang: PatchBert: Continuous Stable Patch Identification for Linux Kernel via Pre-trained Model Fine-tuning. **SANER** 2024.
 2. Yuheng Shen, Shijun Chen, Jianzhong Liu, Yiru Xu, Qiang Zhang, Runzhe Wang, **Heyuan Shi\***, Yu Jiang: Brief Industry Paper: Directed Kernel Fuzz Testing on Real-time Linux. **RTSS** 2023: 495-499
 3. Qinglong Wang, Runzhe Wang, Yuxi Hu, Xiaohai Shi, Zheng Liu, Tao Ma, Houbing Song, **Heyuan Shi\***: KeenTune: Automated Tuning Tool for Cloud Application Performance Testing and Optimization. **ISSTA** 2023: 1487-1490
 4. Runzhe Wang, Qinglong Wang, Yuxi Hu, **Heyuan Shi\***, Yuheng Shen, Yu Zhan, Ying Fu, Zheng Liu, Xiaohai Shi, Yu Jiang: Industry practice of configuration auto-tuning for cloud applications and services. **ESEC/SIGSOFT FSE** 2022: 1555-1565
