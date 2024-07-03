@@ -15,14 +15,15 @@ Heyuan Shi received the B.S. degree in School of Information Science and Enginee
 
 ## Selected Conference Publications
 
-1. Rongkai Liu, **Heyuan Shi\***, Yongchao Zhang, Runzhe Wang, Yuheng Shen, Yuao Chen, Jing Luo, Xiaohai Shi, Chao Hu, Yu Jiang: PatchBert: Continuous Stable Patch Identification for Linux Kernel via Pre-trained Model Fine-tuning. **SANER** 2024.
-2. Yuheng Shen, Shijun Chen, Jianzhong Liu, Yiru Xu, Qiang Zhang, Runzhe Wang, **Heyuan Shi\***, Yu Jiang: Brief Industry Paper: Directed Kernel Fuzz Testing on Real-time Linux. **RTSS** 2023: 495-499
-3. Qinglong Wang, Runzhe Wang, Yuxi Hu, Xiaohai Shi, Zheng Liu, Tao Ma, Houbing Song, **Heyuan Shi\***: KeenTune: Automated Tuning Tool for Cloud Application Performance Testing and Optimization. **ISSTA** 2023: 1487-1490
-4. Runzhe Wang, Qinglong Wang, Yuxi Hu, **Heyuan Shi\***, Yuheng Shen, Yu Zhan, Ying Fu, Zheng Liu, Xiaohai Shi, Yu Jiang: Industry practice of configuration auto-tuning for cloud applications and services. **ESEC/SIGSOFT FSE** 2022: 1555-1565
-5. Yuheng Shen, Hao Sun, Yixiao Yang, Yu Jiang, Wanli Chang, **Heyuan Shi\***: "Rtkaller: State-aware Task Generation for RTOS Fuzzing". ACM SIGBED International Conference on Embedded Software **(EMSOFT)**, 2021.
-6. Jiawei Luo, Zihan Lai, Cong Shen, Pei Liu, **Heyuan Shi\***: Graph Attention Mechanism-based Deep Tensor Factorization for Predicting disease-associated miRNA-miRNA pairs. **BIBM** 2021: 189-196
-7. Zhipin Gu, Yuexiang Yang, **Heyuan Shi\***: Detecting Malicious Gradients from Asynchronous SGD on Variational Autoencoder. **SRDS** 2021: 321-330
-8. **Heyuan Shi**, Runzhe Wang, Ying Fu, Mingzhe Wang, Xiaohai Shi, Xun Jiao, Houbing Song, Yu Jiang\*, Jiaguang Sun: Industry practice of coverage-guided enterprise Linux kernel fuzzing. **ESEC/SIGSOFT FSE** 2019: 986-995
+1. Jing Luo, **Heyuan Shi***, Yongchao Zhang, Runzhe Wang, Yuheng Shen, Yuao Chen, Rongkai Liu, Xiaohai Shi, Chao Hu, Yu Jiang: CVECenter: Industry Practice of Automated Vulnerability Management for Linux Distribution Community. **ESEC/SIGSOFT FSE** 2024.
+2. Rongkai Liu, **Heyuan Shi\***, Yongchao Zhang, Runzhe Wang, Yuheng Shen, Yuao Chen, Jing Luo, Xiaohai Shi, Chao Hu, Yu Jiang: PatchBert: Continuous Stable Patch Identification for Linux Kernel via Pre-trained Model Fine-tuning. **SANER** 2024.
+3. Yuheng Shen, Shijun Chen, Jianzhong Liu, Yiru Xu, Qiang Zhang, Runzhe Wang, **Heyuan Shi\***, Yu Jiang: Brief Industry Paper: Directed Kernel Fuzz Testing on Real-time Linux. **RTSS** 2023: 495-499
+4. Qinglong Wang, Runzhe Wang, Yuxi Hu, Xiaohai Shi, Zheng Liu, Tao Ma, Houbing Song, **Heyuan Shi\***: KeenTune: Automated Tuning Tool for Cloud Application Performance Testing and Optimization. **ISSTA** 2023: 1487-1490
+5. Runzhe Wang, Qinglong Wang, Yuxi Hu, **Heyuan Shi\***, Yuheng Shen, Yu Zhan, Ying Fu, Zheng Liu, Xiaohai Shi, Yu Jiang: Industry practice of configuration auto-tuning for cloud applications and services. **ESEC/SIGSOFT FSE** 2022: 1555-1565
+6. Yuheng Shen, Hao Sun, Yixiao Yang, Yu Jiang, Wanli Chang, **Heyuan Shi\***: "Rtkaller: State-aware Task Generation for RTOS Fuzzing". ACM SIGBED International Conference on Embedded Software **(EMSOFT)**, 2021.
+7. Jiawei Luo, Zihan Lai, Cong Shen, Pei Liu, **Heyuan Shi\***: Graph Attention Mechanism-based Deep Tensor Factorization for Predicting disease-associated miRNA-miRNA pairs. **BIBM** 2021: 189-196
+8. Zhipin Gu, Yuexiang Yang, **Heyuan Shi\***: Detecting Malicious Gradients from Asynchronous SGD on Variational Autoencoder. **SRDS** 2021: 321-330
+9. **Heyuan Shi**, Runzhe Wang, Ying Fu, Mingzhe Wang, Xiaohai Shi, Xun Jiao, Houbing Song, Yu Jiang\*, Jiaguang Sun: Industry practice of coverage-guided enterprise Linux kernel fuzzing. **ESEC/SIGSOFT FSE** 2019: 986-995
 
 ## Selected Journal Publications
 
