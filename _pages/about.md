@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Heyuan Shi received the B.S. degree in School of Information Science and Engineering, Central South University, Changsha, China, in 2015, and the Ph.D. degree in School of Software, Tsinghua University, Beijing, China, in 2020. He is currently an Associate Professor with the School of Electronic Information, Central South University, Changsha, China. His current research interests include the safety and reliability of infrastructure software and AI software.
+Heyuan Shi received the B.S. degree in School of Information Science and Engineering, Central South University, Changsha, China, in 2015, and the Ph.D. degree in School of Software, Tsinghua University, Beijing, China, in 2020. He is currently an Associate Professor with the School of Electronic Information, Central South University, Changsha, China. His current research interests include the software quality assurance.
 
 ## Selected Awards
 
@@ -15,73 +15,86 @@ Heyuan Shi received the B.S. degree in School of Information Science and Enginee
 
 ## Selected Conference Publications
 
-1. Jing Luo, **Heyuan Shi***, Yongchao Zhang, Runzhe Wang, Yuheng Shen, Yuao Chen, Rongkai Liu, Xiaohai Shi, Chao Hu, Yu Jiang: CVECenter: Industry Practice of Automated Vulnerability Management for Linux Distribution Community. **ESEC/SIGSOFT FSE** 2024.
-2. Rongkai Liu, **Heyuan Shi\***, Yongchao Zhang, Runzhe Wang, Yuheng Shen, Yuao Chen, Jing Luo, Xiaohai Shi, Chao Hu, Yu Jiang: PatchBert: Continuous Stable Patch Identification for Linux Kernel via Pre-trained Model Fine-tuning. **SANER** 2024.
-3. Yuheng Shen, Shijun Chen, Jianzhong Liu, Yiru Xu, Qiang Zhang, Runzhe Wang, **Heyuan Shi\***, Yu Jiang: Brief Industry Paper: Directed Kernel Fuzz Testing on Real-time Linux. **RTSS** 2023: 495-499
-4. Qinglong Wang, Runzhe Wang, Yuxi Hu, Xiaohai Shi, Zheng Liu, Tao Ma, Houbing Song, **Heyuan Shi\***: KeenTune: Automated Tuning Tool for Cloud Application Performance Testing and Optimization. **ISSTA** 2023: 1487-1490
-5. Runzhe Wang, Qinglong Wang, Yuxi Hu, **Heyuan Shi\***, Yuheng Shen, Yu Zhan, Ying Fu, Zheng Liu, Xiaohai Shi, Yu Jiang: Industry practice of configuration auto-tuning for cloud applications and services. **ESEC/SIGSOFT FSE** 2022: 1555-1565
-6. Yuheng Shen, Hao Sun, Yixiao Yang, Yu Jiang, Wanli Chang, **Heyuan Shi\***: "Rtkaller: State-aware Task Generation for RTOS Fuzzing". ACM SIGBED International Conference on Embedded Software **(EMSOFT)**, 2021.
-7. Jiawei Luo, Zihan Lai, Cong Shen, Pei Liu, **Heyuan Shi\***: Graph Attention Mechanism-based Deep Tensor Factorization for Predicting disease-associated miRNA-miRNA pairs. **BIBM** 2021: 189-196
-8. Zhipin Gu, Yuexiang Yang, **Heyuan Shi\***: Detecting Malicious Gradients from Asynchronous SGD on Variational Autoencoder. **SRDS** 2021: 321-330
-9. **Heyuan Shi**, Runzhe Wang, Ying Fu, Mingzhe Wang, Xiaohai Shi, Xun Jiao, Houbing Song, Yu Jiang\*, Jiaguang Sun: Industry practice of coverage-guided enterprise Linux kernel fuzzing. **ESEC/SIGSOFT FSE** 2019: 986-995
+1. Heyuan Shi, Shijun Chen, Runzhe Wang, Yuhan Chen, Weibo Zhang, Qiang Zhang, Yuheng Shen, Xiaohai Shi, Chao Hu, Yu Jiang:
+   Industry Practice of Directed Kernel Fuzzing for Open-source Linux Distribution. ASE 2024 Accepted [CCF-A]
+2. Kai Liang, Zhengxiong Luo, Yanyang Zhao, Wenlong Zhang, Ronghua Shi, Yu Jiang, Heyuan Shi\* and Chao Hu:
+   MDIplier: Protocol Format Recovery via Hierarchical Inference. ISSRE 2024 Accepted [CCF-B]
+3. Yuheng Shen, Jianzhong Liu, Yiru Xu, Hao Sun, Mingzhe Wang, Nan Guan, Heyuan Shi\*, Yu Jiang\*:
+   Enhancing ROS System Fuzzing through Callback Tracing. ISSTA 2024: 76-87 [CCF-A]
+4. Jing Luo, Heyuan Shi\*, Yongchao Zhang, Runzhe Wang, Yuheng Shen, Yuao Chen, Xiaohai Shi, Rongkai Liu, Chao Hu, Yu Jiang:
+   CVECenter: Industry Practice of Automated Vulnerability Management for Linux Distribution Community. SIGSOFT FSE Companion 2024: 329-339 [CCF-A]
+5. Rongkai Liu, Heyuan Shi\*, Yongchao Zhang, Runzhe Wang, Yuheng Shen, Yuao Chen, Jing Luo, Xiaohai Shi, Chao Hu, Yu Jiang:
+   PatchBert: Continuous Stable Patch Identification for Linux Kernel via Pre-trained Model Fine-tuning. SANER 2024: 349-358 [CCF-B]
+6. Qinglong Wang, Runzhe Wang, Yuxi Hu, Xiaohai Shi, Zheng Liu, Tao Ma, Houbing Song, Heyuan Shi\*:
+   KeenTune: Automated Tuning Tool for Cloud Application Performance Testing and Optimization. ISSTA 2023: 1487-1490 [CCF-A]
+7. Yuheng Shen, Shijun Chen, Jianzhong Liu, Yiru Xu, Qiang Zhang, Runzhe Wang, Heyuan Shi\*, Yu Jiang\*:
+   Brief Industry Paper: Directed Kernel Fuzz Testing on Real-time Linux. RTSS 2023: 495-499 [CCF-A]
+8. Runzhe Wang, Qinglong Wang, Yuxi Hu, Heyuan Shi\*, Yuheng Shen, Yu Zhan, Ying Fu, Zheng Liu, Xiaohai Shi, Yu Jiang:
+   Industry practice of configuration auto-tuning for cloud applications and services. ESEC/SIGSOFT FSE 2022: 1555-1565 [CCF-A]
+9. Jiawei Luo, Zihan Lai, Cong Shen, Pei Liu, Heyuan Shi\*:
+   Graph Attention Mechanism-based Deep Tensor Factorization for Predicting disease-associated miRNA-miRNA pairs. BIBM 2021: 189-196 [CCF-B]
+10. Zhipin Gu, Yuexiang Yang, Heyuan Shi\*:
+    Detecting Malicious Gradients from Asynchronous SGD on Variational Autoencoder. SRDS 2021: 321-330 [CCF-B]
+11. Heyuan Shi, Runzhe Wang, Ying Fu, Mingzhe Wang, Xiaohai Shi, Xun Jiao, Houbing Song, Yu Jiang, Jiaguang Sun:
+    Industry practice of coverage-guided enterprise Linux kernel fuzzing. ESEC/SIGSOFT FSE 2019: 986-995 [CCF-A]
 
 ## Selected Journal Publications
 
-1. Fangfang Li, Zhi Liu, Junwen Duan, Xingliang Mao, **Heyuan Shi\***, Shichao Zhang: Exploiting Conversation-Branch-Tweet HyperGraph Structure to Detect Misinformation on Social Media. ACM Trans. Knowl. Discov. Data 18(2): 33:1-33:20 (2024) **[TKDD]**
-2. Kehua Guo, Liang Chen, Xiangyuan Zhu, Xiaoyan Kui, Jian Zhang, **Heyuan Shi\***: Double-Layer Search and Adaptive Pooling Fusion for Reference-Based Image Super-Resolution. ACM Trans. Multim. Comput. Commun. Appl. 20(1): 15:1-15:23 (2024) **[TOMM]**
-3. Liqiang Wu, **Heyuan Shi\***, Shaojing Fu, Yuchuan Luo, Ming Xu: p2Detect: Electricity Theft Detection With Privacy Preservation for Both Data and Model in Smart Grid. IEEE Trans. Smart Grid 14(3): 2301-2312 (2023) **[TSG]**
-4. Jinjing Shi, Shuhui Chen, Tian Chen, Tongge Zhao, Jiuqi Tang, Qin Li, Chunlin Yu, **Heyuan Shi\***: Image encryption with quantum cellular neural network. Quantum Inf. Process. 21(6): 214 (2022) **[QIP]**
-5. Yuheng Shen, Yiru Xu, Hao Sun, Jianzhong Liu, Zichen Xu, Aiguo Cui, **Heyuan Shi\***, Yu Jiang\*: Tardis: Coverage-Guided Embedded Operating System Fuzzing. IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 41(11): 4563-4574 (2022) **[TCAD]**
-6. Jianmin Guo, Quan Zhang, Yue Zhao, **Heyuan Shi\***, Yu Jiang, Jia-Guang Sun: RNN-Test: Towards Adversarial Testing for Recurrent Neural Network Systems. IEEE Trans. Software Eng. 48(10): 4167-4180 (2022) **[TSE]**
-7. **Heyuan Shi**, Guyu Wang, Ying Fu, Chao Hu, Houbing Song, Jian Dong, Kun Tang, Kai Liang: Abaci-finder: Linux kernel crash classification through stack trace similarity learning. J. Parallel Distributed Comput. 168: 70-79 (2022) **[JPDC]**
-8. **Heyuan Shi**, Yubo Zhang, Zizhao Zhang, Nan Ma, Xibin Zhao, Yue Gao, Jiaguang Sun: Hypergraph-Induced Convolutional Networks for Visual Classification. IEEE Trans. Neural Networks Learn. Syst. 30(10): 2963-2972 (2019) **[TNNLS]**
-9. Yu Zhan, Ying Fu, Liang Huang, Jianmin Guo, **Heyuan Shi\***, Houbing Song, Chao Hu: Cube-Evo: a query-efficient black box attack on video classification system. IEEE Transactions on Reliability, doi: 10.1109/TR.2023.3261986. **[TR]**
-10. **Heyuan Shi**, Runzhe Wang, Ying Fu, Yu Jiang\*, Jian Dong, Kun Tang, Jiaguang Sun: Vulnerable Code Clone Detection for Operating System Through Correlation-Induced Learning. IEEE Trans. Ind. Informatics 15(12): 6551-6559 (2019) **[TII]**
-11. **Heyuan Shi**, Xibin Zhao, Hai Wan, Huihui Wang, Jian Dong, Kun Tang, Anfeng Liu: Multi-model induced network for participatory-sensing-based classification tasks in intelligent and connected transportation systems. Comput. Networks 141: 157-165 (2018) **[COMNET]**
+1. Jinjing Shi, Zimeng Xiao, Heyuan Shi\*, Yu Jiang, and Xuelong Li：
+   QuanTest: Entanglement-Guided Testing of Quantum Neural Network Systems. ACM Trans. Softw. Eng. Methodol. Just Accepted [CCF-A]
+2. Heyuan Shi, Binqi Zeng, Ruishi Yu, Yulin Yang, Zijian Zouxia, Chao Hu, Ronghua Shi:
+   H3NI: Non-target-specific node injection attacks on hypergraph neural networks via genetic algorithm. Neurocomputing 613: 128746 (2025) [JCR-1]
+3. Fangfang Li, Zhi Liu, Junwen Duan, Xingliang Mao, Heyuan Shi\*, Shichao Zhang:
+   Exploiting Conversation-Branch-Tweet HyperGraph Structure to Detect Misinformation on Social Media. ACM Trans. Knowl. Discov. Data 18(2): 33:1-33:20 (2024) [CCF-B]
+4. Kehua Guo, Liang Chen, Xiangyuan Zhu, Xiaoyan Kui, Jian Zhang, Heyuan Shi\*:
+   Double-Layer Search and Adaptive Pooling Fusion for Reference-Based Image Super-Resolution. ACM Trans. Multim. Comput. Commun. Appl. 20(1): 15:1-15:23 (2024) [CCF-B]
+5. Yu Zhan, Ying Fu, Liang Huang, Jianmin Guo, Heyuan Shi\*, Houbing Song, Chao Hu:
+   Cube-Evo: A Query-Efficient Black-Box Attack on Video Classification System. IEEE Trans. Reliab. 73(2): 1160-1171 (2024) [JCR-1]
+6. Liqiang Wu, Heyuan Shi\*, Shaojing Fu, Yuchuan Luo, Ming Xu:
+   p2Detect: Electricity Theft Detection With Privacy Preservation for Both Data and Model in Smart Grid. IEEE Trans. Smart Grid 14(3): 2301-2312 (2023) [中科院1区]
+7. Heyuan Shi, Guyu Wang, Ying Fu, Chao Hu, Houbing Song, Jian Dong, Kun Tang, Kai Liang:
+   Abaci-finder: Linux kernel crash classification through stack trace similarity learning. J. Parallel Distributed Comput. 168: 70-79 (2022) [CCF-B]
+8. Yuheng Shen, Yiru Xu, Hao Sun, Jianzhong Liu, Zichen Xu, Aiguo Cui, Heyuan Shi\*, Yu Jiang\*:
+   Tardis: Coverage-Guided Embedded Operating System Fuzzing. IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 41(11): 4563-4574 (2022) [CCF-A]
+9. Jianmin Guo, Quan Zhang, Yue Zhao, Heyuan Shi\*, Yu Jiang, Jia-Guang Sun:
+   RNN-Test: Towards Adversarial Testing for Recurrent Neural Network Systems. IEEE Trans. Software Eng. 48(10): 4167-4180 (2022) [CCF-A]
+10. Yuheng Shen, Hao Sun, Yu Jiang, Heyuan Shi\*, Yixiao Yang\*, Wanli Chang:
+    Rtkaller: State-aware Task Generation for RTOS Fuzzing. ACM Trans. Embed. Comput. Syst. 20(5s): 83:1-83:22 (2021) [CCF-B]
+11. Heyuan Shi, Runzhe Wang, Ying Fu, Yu Jiang, Jian Dong, Kun Tang, Jiaguang Sun:
+    Vulnerable Code Clone Detection for Operating System Through Correlation-Induced Learning. IEEE Trans. Ind. Informatics 15(12): 6551-6559 (2019) [中科院1区]
+12. Heyuan Shi, Yubo Zhang, Zizhao Zhang, Nan Ma, Xibin Zhao, Yue Gao, Jiaguang Sun:
+    Hypergraph-Induced Convolutional Networks for Visual Classification. IEEE Trans. Neural Networks Learn. Syst. 30(10): 2963-2972 (2019) [CCF-B]
+13. Heyuan Shi, Xibin Zhao, Hai Wan, Huihui Wang, Jian Dong, Kun Tang, Anfeng Liu:
+    Multi-model induced network for participatory-sensing-based classification tasks in intelligent and connected transportation systems. Comput. Networks 141: 157-165 (2018) [CCF-B]
 
 ## Selected Project
 
-- **2023.12-2025.12, Anhui Province Key Laboratory of Cyberspace Security Situation Awareness and Evaluation, Open Fund of Anhui Province Key Laboratory of Cyberspace Security Situation Awareness and Evaluation (No.CSSAE-2023-010)**
-- **2024.01-2026.12, Changsha Science and Technology Key Project (No.kh2401027)**
-- **2023.01-2025.12, National Key R&D Program of China (No.2022YFB3104003)**
-- **2023.01-2025.12, National Natural Science Foundation of China (No.62202500)**
-- **2023.01-2025.12, Hunan Provincial Natural Science Foundation (No.2023JJ40772)**
-- **2023.04-2024.12, Hunan Provincial 14th Five-Year Plan Educational Science Research Project (No.XJK23AJD022)**
-- **2022.09-2024.09, Ministry of Education Industry-University Cooperation Collaborative Education Project (No.220500643274437)**
+- 2025.01-2028.12, NSFC Program (No.62472448)
+- 2023.12-2025.12, Anhui Province Key Laboratory of Cyberspace Security Situation Awareness and Evaluation, Open Fund of Anhui Province Key Laboratory of Cyberspace Security Situation Awareness and Evaluation (No.CSSAE-2023-010)
+- 2024.01-2026.12, Changsha Sci-tech Key Project (No.kh2401027)
+- 2023.01-2025.12, National Key R&D Program of China (No.2022YFB3104003)
+- 2023.01-2025.12, NSFC Program (No.62202500)
+- 2023.01-2025.12, Hunan Provincial Natural Science Foundation (No.2023JJ40772)
+- 2023.04-2024.12, Hunan Provincial 14th Five-Year Plan Educational Science Research Project (No.XJK23AJD022)
+- 2022.09-2024.09, Ministry of Education Industry-University Cooperation Collaborative Education Project (No.220500643274437)
 - 2023.05-2024.05, Alibaba Innovative Research (AIR) Project, (No.CRS54WHZ11230005 24221597)
 - 2023.01-2023.12, Xiaohe Sci-Tech Talents Special Funding under Hunan Provincial Sci-Tech Talents Sponsorship Program (No.2023TJ-X40)
 
 ## Professional Service
 
-### TPC Member
+### PC Member
 
+- International Symposium on Formal Methods 2024 (FM) [CCF-A]
+- CCF ChinaSoft 2024 / 软件学报（新兴软件与系统的可信赖性与安全专刊）[CCF-T1]
 - IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA). 2024
 
 ### Reviewer
 
-- IEEE Transactions on Sustainable Computing
-- The Journal of Supercomputing
-- Journal of Cryptologic Research (密码学报)
-- IEEE Transactions on Neural Networks and Learning Systems
-- Big Data Mining and Analytics
-
-## Student
-
-### Masters
-
-1. Wanli Chen (2023-):
-2. Sisheng Li (2023-): Co-supervised with Prof. Chao Hu
-3. Zijian Zouxia (2023-): Co-supervised with Prof. Ronghua Shi
-4. Yuhan Chen (2023-): Co-supervised with Prof. Ronghua Shi
-5. Wenlong Zhang (2023-): Co-supervised with Prof. Ronghua Shi
-6. Shuning Liu (2022-)
-7. Binqi Zeng (2022-)
-8. Shijun Chen (2022-): Co-supervised with Prof. Ronghua Shi
-9. Ruikang Peng (2022-): Co-supervised with Prof. Ronghua Shi
-10. Shangyuan Xiafang (2022-): Co-supervised with Prof. Ronghua Shi
-11. Kai Liang (2021-2024): Co-supervised with Prof. Ronghua Shi
-12. Rongkai Liu (2021-2024): Co-supervised with Prof. Chao Hu
-13. Jing Luo (2021-2024): Co-supervised with Prof. Chao Hu
-14. Ruishi Yu (2021-2024): Co-supervised with Prof. Chao Hu
-15. Yu Zhan (2020-2023): Co-supervised with Prof. Xin Yao, Now China Telecom.
-16. Liang Huang (2019-2022): Co-supervised with Prof. Ronghua Shi, Now Tencent.
+- Computers & Security, Elsevier [CCF-B]
+- IEEE Transactions on Sustainable Computing, IEEE [JCR-2]
+- The Journal of Supercomputing, Springer [JCR-2]
+- Journal of Cryptologic Research (密码学报) [CCF-T2]
+- IEEE Transactions on Neural Networks and Learning Systems, IEEE [CCF-B]
+- Journal of Systems Architecture, Elsevier [CCF-B]
+- Journal of Software: Evolution and Process, Wiley [CCF-B]
+- Big Data Mining and Analytics, TSINGHUA UNIV PRESS [中科院1区]
