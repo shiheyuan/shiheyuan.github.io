@@ -9,10 +9,6 @@ redirect_from:
 
 Heyuan Shi received the B.S. degree in School of Information Science and Engineering, Central South University, Changsha, China, in 2015, and the Ph.D. degree in School of Software, Tsinghua University, Beijing, China, in 2020. He is currently an Associate Professor with the School of Electronic Information, Central South University, Changsha, China. His current research interests include the software quality assurance.
 
-## Selected Awards
-
-- Hunan Provincial Xiaohe Sci-Tech Talents, 2023
-
 ## Selected Conference Publications
 
 1. Heyuan Shi, Shijun Chen, Runzhe Wang, Yuhan Chen, Weibo Zhang, Qiang Zhang, Yuheng Shen, Xiaohai Shi, Chao Hu, Yu Jiang:
@@ -80,7 +76,11 @@ Heyuan Shi received the B.S. degree in School of Information Science and Enginee
 - 2023.05-2024.05, Alibaba Innovative Research (AIR) Project, (No.CRS54WHZ11230005 24221597)
 - 2023.01-2023.12, Xiaohe Sci-Tech Talents Special Funding under Hunan Provincial Sci-Tech Talents Sponsorship Program (No.2023TJ-X40)
 
-## Professional Service
+## Selected Awards
+
+- Hunan Provincial Xiaohe Sci-Tech Talents, 2023
+  
+## Academic Service
 
 ### PC Member
 
