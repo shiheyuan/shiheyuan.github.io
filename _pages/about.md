@@ -73,8 +73,8 @@ Heyuan Shi received the B.S. degree in School of Information Science and Enginee
 - 2023.01-2025.12, Hunan Provincial Natural Science Foundation (No.2023JJ40772)
 - 2023.04-2024.12, Hunan Provincial 14th Five-Year Plan Educational Science Research Project (No.XJK23AJD022)
 - 2022.09-2024.09, Ministry of Education Industry-University Cooperation Collaborative Education Project (No.220500643274437)
-- 2023.05-2024.05, Alibaba Innovative Research (AIR) Project, (No.CRS54WHZ11230005 24221597)
-- 2023.01-2023.12, Xiaohe Sci-Tech Talents Special Funding under Hunan Provincial Sci-Tech Talents Sponsorship Program (No.2023TJ-X40)
+- ~2023.05-2024.05, Alibaba Innovative Research (AIR) Project, (No.CRS54WHZ11230005 24221597)~
+- ~2023.01-2023.12, Xiaohe Sci-Tech Talents Special Funding under Hunan Provincial Sci-Tech Talents Sponsorship Program (No.2023TJ-X40)~
 
 ## Selected Awards
 
