@@ -85,16 +85,16 @@ Heyuan Shi received the B.S. degree in School of Information Science and Enginee
 ### PC Member
 
 - International Symposium on Formal Methods 2024 (FM) [CCF-A]
-- CCF ChinaSoft 2024 / 软件学报（新兴软件与系统的可信赖性与安全专刊）[CCF-T1]
+- CCF ChinaSoft 2024 / 软件学报（新兴软件与系统的可信赖性与安全专刊）[CCF-A]
 - IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA). 2024
 
 ### Reviewer
 
-- Computers & Security, Elsevier [CCF-B]
 - IEEE Transactions on Sustainable Computing, IEEE [JCR-2]
-- The Journal of Supercomputing, Springer [JCR-2]
-- Journal of Cryptologic Research (密码学报) [CCF-T2]
 - IEEE Transactions on Neural Networks and Learning Systems, IEEE [CCF-B]
+- Computers & Security, Elsevier [CCF-B]
 - Journal of Systems Architecture, Elsevier [CCF-B]
+- The Journal of Supercomputing, Springer [JCR-2]
 - Journal of Software: Evolution and Process, Wiley [CCF-B]
+- Journal of Cryptologic Research (密码学报) [CCF-B]
 - Big Data Mining and Analytics, TSINGHUA UNIV PRESS [中科院1区]
