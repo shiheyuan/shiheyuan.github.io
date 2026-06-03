@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Heyuan Shi received the B.S. degree in School of Information Science and Engineering, Central South University, Changsha, China, in 2015, and the Ph.D. degree in School of Software, Tsinghua University, Beijing, China, in 2020. He is currently an Associate Professor with the School of Electronic Information, Central South University, Changsha, China. His current research interests include the software quality assurance.
+Heyuan Shi received the B.S. degree in School of Information Science and Engineering, Central South University, Changsha, China, in 2015, and the Ph.D. degree in School of Software, Tsinghua University, Beijing, China, in 2020. He is currently an Professor with the School of Electronic Information, Central South University, Changsha, China. His current research interests include the software quality assurance.
 
 ## Selected Conference Publications
 
